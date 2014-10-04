@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="IpRangeCalculatorCase"/>
+	<classpathentry kind="src" path="IpRangeCalculatorCaseTest"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/mojAssignmentPlugin_1.0.0/lib/moj.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

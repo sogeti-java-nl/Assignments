@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RouteplannerCase"/>
+	<classpathentry kind="src" path="RouteplannerCaseTest"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/mojAssignmentPlugin_1.0.0/lib/moj.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_60/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

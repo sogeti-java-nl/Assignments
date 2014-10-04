@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="MaxSegSumCase"/>
+	<classpathentry kind="src" path="MaxSegSumCaseTest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/geenenju/.m2/repository/nl/sogeti/jcncore/moj/1.0-SNAPSHOT/moj-1.0-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
