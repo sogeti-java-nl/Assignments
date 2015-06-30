@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="TwisterSisterCase"/>
+	<classpathentry kind="src" path="TwisterSisterCaseTest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/java/ide/extraplugins/eclipse/plugins/mojAssignmentPlugin_1.0.0/lib/moj.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
