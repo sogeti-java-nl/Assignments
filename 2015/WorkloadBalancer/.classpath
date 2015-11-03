@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="workloadbalancerCase"/>
+	<classpathentry kind="src" path="workloadbalancerCaseTest"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/mojAssignmentPlugin_1.0.0/lib/moj.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/tools/Java/jdk1.7.0_71/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
